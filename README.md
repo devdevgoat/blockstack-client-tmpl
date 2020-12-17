@@ -1,4 +1,5 @@
 # blockstack-client-tmpl
+
  A template app for packaging blockstack apps into a single executable using the -pkg module
 
 ## Requirements
@@ -43,3 +44,5 @@ You might need to globally install micro:
 ```node
 npm install -g micro
 ```
+
+If that doesn't fix it... idk, I wrote this shit at 6am on a thursday after reading how to do reactjs on the toilet for 5min.
